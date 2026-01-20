@@ -1,0 +1,10 @@
+STUDENT REPORT SUMMARY
+======================
+Total Students : 9
+Average Marks  : 89.44
+Highest Marks  : 100
+Lowest Marks   : 75
+Topper         : Arvind (100)
+Passed         : 9
+Failed         : 0
+Class Performance : Excellent
